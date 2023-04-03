@@ -30,3 +30,5 @@
 
 1. [Valid Parentheses](https://github.com/Baro-coder/Codewars/tree/master/valid-parentheses)
 
+2. [Cuboid](https://github.com/Baro-coder/Codewars/tree/master/cuboid)
+
