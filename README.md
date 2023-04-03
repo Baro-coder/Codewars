@@ -2,6 +2,8 @@
 
 ## *Codewars portal challenges solutions*
 
+<img src="https://raw.githubusercontent.com/Baro-coder/Codewars/master/assets/banner.jpg">
+
 ---
 
 ## **Content:**
@@ -14,19 +16,19 @@
 
 ## **Description**
 
-
+Repository consists of my solutions to challenges from portal [**Codewars**](https://www.codewars.com/).
 
 ---
 
 ## **Profile**
 
-### [Baro-coder](https://www.codewars.com/users/Baro-coder)
+### My Codewars user page: [Baro-coder](https://www.codewars.com/users/Baro-coder)
 
 ---
 
 ## **Challenges**
 
-1. [Valid Parentheses](#)
+1. [Valid Parentheses](https://github.com/Baro-coder/Codewars/tree/master/valid-parentheses)
 
 
 ---
