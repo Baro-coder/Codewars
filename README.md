@@ -32,3 +32,5 @@
 
 2. [Cuboid](https://github.com/Baro-coder/Codewars/tree/master/cuboid)
 
+3. [Keep the Order](https://github.com/Baro-coder/Codewars/tree/master/keep-order)
+   
