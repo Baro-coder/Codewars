@@ -16,13 +16,13 @@
 
 ## **Description**
 
-Repository consists of my solutions to challenges from portal [**Codewars**](https://www.codewars.com/).
+#### Repository consists of my solutions to challenges from portal [**Codewars**](https://www.codewars.com/).
 
 ---
 
 ## **Profile**
 
-### My Codewars user page: [Baro-coder](https://www.codewars.com/users/Baro-coder)
+#### My Codewars user page: [Baro-coder](https://www.codewars.com/users/Baro-coder)
 
 ---
 
@@ -30,5 +30,3 @@ Repository consists of my solutions to challenges from portal [**Codewars**](htt
 
 1. [Valid Parentheses](https://github.com/Baro-coder/Codewars/tree/master/valid-parentheses)
 
-
----
